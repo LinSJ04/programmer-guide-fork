@@ -8,7 +8,7 @@
 
 **交流群**
 
-可以添加 我为好友，并拉你进一个交流群，也可以关注视频号和公众号。
+可以添加 我为好友，加入我的知识星球跟着我一起学习，也可以关注视频号和公众号。
 
 ![关于我_01](https://github.com/starqidian/itbeien-springcloudalibaba-master/assets/119275470/f35ea083-edfa-431e-8b0c-9cf969b20890)
 
