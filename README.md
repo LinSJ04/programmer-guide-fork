@@ -44,6 +44,8 @@
 
 [10SpringBoot3.4.0整合ActiveMQ6.1.4](https://www.itbeien.cn/tech/SpringBoot3/10SpringBoot3.4.0%E6%95%B4%E5%90%88ActiveMQ.html)
 
+[11SpringBoot3整合Spring Security6.4.2 安全认证框架实现简单身份认证](https://itbeien.cn/tech/SpringBoot3/11SpringBoot3%E6%95%B4%E5%90%88Spring%20Security6.4.2%E5%AE%89%E5%85%A8%E8%AE%A4%E8%AF%81%E6%A1%86%E6%9E%B6%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81.html)
+
 ## 3 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
