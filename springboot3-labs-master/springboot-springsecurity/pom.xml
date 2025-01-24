@@ -15,6 +15,9 @@
         <module>springsecurity-simple</module>
         <module>springsecurity-memory</module>
         <module>springsecurity-mysql8.4.3</module>
+        <module>springsecurity-encoder</module>
+        <module>springsecurity-oauth2</module>
+        <module>springsecurity-oauth2/springsecurity-oauth2-github</module>
     </modules>
 
     <dependencies>
