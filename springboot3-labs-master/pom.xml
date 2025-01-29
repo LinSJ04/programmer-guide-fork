@@ -50,6 +50,7 @@
         <fastjson-vesion>2.0.53</fastjson-vesion>
         <redisson-spring-boot-starter-version>3.38.1</redisson-spring-boot-starter-version>
         <contiperf-version>2.3.4</contiperf-version>
+        <hutool.version>5.8.23</hutool.version>
     </properties>
 
     <dependencyManagement>
@@ -115,6 +116,12 @@
                 <groupId>org.databene</groupId>
                 <artifactId>contiperf</artifactId>
                 <version>${contiperf-version}</version>
+            </dependency>
+            <!--Hutool Java工具包-->
+            <dependency>
+                <groupId>cn.hutool</groupId>
+                <artifactId>hutool-all</artifactId>
+                <version>${hutool.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
