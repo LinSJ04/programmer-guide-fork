@@ -52,6 +52,8 @@
 
 [14SpringBoot3.4.1和Spring Security6.4.2结合JWT实现用户登录](https://itbeien.cn/tech/SpringBoot3/14SpringBoot3.4.1%E5%92%8CSpring%20Security6.4.2%E7%BB%93%E5%90%88JWT%E5%AE%9E%E7%8E%B0%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95.html)
 
+[15SpringBoot3.4.1整合Quartz定时任务](https://itbeien.cn/tech/SpringBoot3/15SpringBoot3.4.1%E6%95%B4%E5%90%88Quartz%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1.html)
+
 ## 3 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
