@@ -54,6 +54,8 @@
 
 [15SpringBoot3.4.1整合Quartz定时任务](https://itbeien.cn/tech/SpringBoot3/15SpringBoot3.4.1%E6%95%B4%E5%90%88Quartz%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1.html)
 
+[16SpringBoot3.4.1基于MySQL8和Quartz实现定时任务管理](https://itbeien.cn/tech/SpringBoot3/16SpringBoot3.4.1%E5%9F%BA%E4%BA%8EMySQL8%E5%92%8CQuartz%E5%AE%9E%E7%8E%B0%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86.html)
+
 ## 3 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
