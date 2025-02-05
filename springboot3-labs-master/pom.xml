@@ -33,6 +33,7 @@
         <module>springboot-activemq</module>
         <module>springboot-springsecurity</module>
         <module>springboot-quartz</module>
+        <module>springboot-quartz-db</module>
     </modules>
 
     <properties>
@@ -52,6 +53,7 @@
         <redisson-spring-boot-starter-version>3.38.1</redisson-spring-boot-starter-version>
         <contiperf-version>2.3.4</contiperf-version>
         <hutool.version>5.8.23</hutool.version>
+        <knife4j-openapi3-jakarta-spring-boot-starter-version>4.5.0</knife4j-openapi3-jakarta-spring-boot-starter-version>
     </properties>
 
     <dependencyManagement>
@@ -76,6 +78,11 @@
             <dependency>
                 <groupId>com.baomidou</groupId>
                 <artifactId>mybatis-plus-spring-boot3-starter</artifactId>
+                <version>${mybatis-plus-spring-boot3-starter-version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.baomidou</groupId>
+                <artifactId>mybatis-plus-jsqlparser</artifactId>
                 <version>${mybatis-plus-spring-boot3-starter-version}</version>
             </dependency>
             <dependency>

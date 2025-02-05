@@ -11,7 +11,6 @@
 
     <properties>
         <mysql-connector-java-version>8.0.33</mysql-connector-java-version>
-        <knife4j-openapi3-jakarta-spring-boot-starter-version>4.5.0</knife4j-openapi3-jakarta-spring-boot-starter-version>
         <jjwt.version>0.9.1</jjwt.version>
     </properties>
 
