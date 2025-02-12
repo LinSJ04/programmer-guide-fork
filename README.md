@@ -8,6 +8,8 @@
 
 [02IntelliJ IDEA集成主流AI编程助手及特性介绍](https://itbeien.cn/AI/tech/02IntelliJIDEA%E9%9B%86%E6%88%90%E4%B8%BB%E6%B5%81AI%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E5%8F%8A%E7%89%B9%E6%80%A7%E4%BB%8B%E7%BB%8D.html)
 
+[03Spring AI快速入门-基于DeepSeek&智谱实现聊天应用](https://itbeien.cn/AI/tech/03SpringAI%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8-%E5%9F%BA%E4%BA%8EDeepSeek_%E6%99%BA%E8%B0%B1%E5%AE%9E%E7%8E%B0%E8%81%8A%E5%A4%A9%E5%BA%94%E7%94%A8.html)
+
 ## 2 微服务专栏
 
 [01跟着我学微服务，什么是微服务？微服务有哪些主流解决方案？](https://www.itbeien.cn/tech/microservice/01%E8%B7%9F%E7%9D%80%E6%88%91%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%8C%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%9F%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%BB%E6%B5%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9F.html)
