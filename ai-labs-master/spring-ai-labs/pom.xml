@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-ai-lab01</module>
+        <module>spring-ai-lab02</module>
     </modules>
 
     <properties>
