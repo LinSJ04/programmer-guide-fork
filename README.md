@@ -74,6 +74,8 @@
 
 [17SpringBoot3.4.2基于MyBatis和MySQL8多数据源使用示例](https://itbeien.cn/tech/SpringBoot3/17SpringBoot3.4.2%E5%9F%BA%E4%BA%8EMybatis%E5%92%8CMySQL8%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B.html)
 
+[18SpringBoot3.4.3实现(文本/附件/HTML/图片)类型邮件发送案例](https://itbeien.cn/tech/SpringBoot3/18SpringBoot3.4.3%E5%AE%9E%E7%8E%B0%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81.html)
+
 ## 4 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
