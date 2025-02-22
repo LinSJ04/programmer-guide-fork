@@ -76,6 +76,8 @@
 
 [18SpringBoot3.4.3实现(文本/附件/HTML/图片)类型邮件发送案例](https://itbeien.cn/tech/SpringBoot3/18SpringBoot3.4.3%E5%AE%9E%E7%8E%B0%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81.html)
 
+[19SpringBoot3.4.3实现文件上传和全局异常处理](https://itbeien.cn/tech/SpringBoot3/19SpringBoot3.4.3%E5%AE%9E%E7%8E%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%92%8C%E5%85%A8%E5%B1%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.html)
+
 ## 4 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
