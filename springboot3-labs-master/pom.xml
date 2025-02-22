@@ -36,7 +36,7 @@
         <module>springboot-quartz-db</module>
         <module>springboot-mybatis-multi-datasource</module>
         <module>springboot-email</module>
-        <!--<module>springboot-fileupload</module>-->
+        <module>springboot-fileupload</module>
     </modules>
 
     <properties>
