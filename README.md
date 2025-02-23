@@ -4,19 +4,19 @@
 
 ## **1 AI专栏**
 
-[01IDEA&VsCode集成DeepSeek-V3 API提高编程效率](https://itbeien.cn/AI/tech/01IDEA_VsCode%E9%9B%86%E6%88%90DeepSeek-V3API%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87.html)
+[01IDEA&VsCode集成DeepSeek-V3 API提高编程效率](https://itbeien.cn/AI/tech/llm/01IDEA_VsCode%E9%9B%86%E6%88%90DeepSeek-V3API%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87.html)
 
-[02IntelliJ IDEA集成主流AI编程助手及特性介绍](https://itbeien.cn/AI/tech/02IntelliJIDEA%E9%9B%86%E6%88%90%E4%B8%BB%E6%B5%81AI%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E5%8F%8A%E7%89%B9%E6%80%A7%E4%BB%8B%E7%BB%8D.html)
+[02IntelliJ IDEA集成主流AI编程助手及特性介绍](https://itbeien.cn/AI/tech/llm/02IntelliJIDEA%E9%9B%86%E6%88%90%E4%B8%BB%E6%B5%81AI%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E5%8F%8A%E7%89%B9%E6%80%A7%E4%BB%8B%E7%BB%8D.html)
 
-[03Spring AI快速入门-基于DeepSeek&智谱实现聊天应用](https://itbeien.cn/AI/tech/03SpringAI%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8-%E5%9F%BA%E4%BA%8EDeepSeek_%E6%99%BA%E8%B0%B1%E5%AE%9E%E7%8E%B0%E8%81%8A%E5%A4%A9%E5%BA%94%E7%94%A8.html)
+[03Spring AI快速入门-基于DeepSeek&智谱实现聊天应用](https://itbeien.cn/AI/tech/llm/03SpringAI%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8-%E5%9F%BA%E4%BA%8EDeepSeek_%E6%99%BA%E8%B0%B1%E5%AE%9E%E7%8E%B0%E8%81%8A%E5%A4%A9%E5%BA%94%E7%94%A8.html)
 
-[04Spring AI中流式对话API如何使用-基于DeepSeek](https://itbeien.cn/AI/tech/04SpringAI%E4%B8%AD%E6%B5%81%E5%BC%8F%E5%AF%B9%E8%AF%9DAPI%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-%E5%9F%BA%E4%BA%8EDeepSeek.html)
+[04Spring AI中流式对话API如何使用-基于DeepSeek](https://itbeien.cn/AI/tech/llm/04SpringAI%E4%B8%AD%E6%B5%81%E5%BC%8F%E5%AF%B9%E8%AF%9DAPI%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-%E5%9F%BA%E4%BA%8EDeepSeek.html)
 
-[05SpringAI实现上下文对话-基于DeepSeek](https://itbeien.cn/AI/tech/05SpringAI%E5%AE%9E%E7%8E%B0%E4%B8%8A%E4%B8%8B%E6%96%87%E5%AF%B9%E8%AF%9D-%E5%9F%BA%E4%BA%8EDeepSeek.html)
+[05SpringAI实现上下文对话-基于DeepSeek](https://itbeien.cn/AI/tech/llm/05SpringAI%E5%AE%9E%E7%8E%B0%E4%B8%8A%E4%B8%8B%E6%96%87%E5%AF%B9%E8%AF%9D-%E5%9F%BA%E4%BA%8EDeepSeek.html)
 
-[06SpringAI实现角色扮演(自定义人设)和Prompts模板语法-基于DeepSeek](https://itbeien.cn/AI/tech/06SpringAI%E5%AE%9E%E7%8E%B0%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94(%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BA%BA%E8%AE%BE)%E5%92%8CPrompts%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95-%E5%9F%BA%E4%BA%8EDeepSeek.html)
+[06SpringAI实现角色扮演(自定义人设)和Prompts模板语法-基于DeepSeek](https://itbeien.cn/AI/tech/llm/06SpringAI%E5%AE%9E%E7%8E%B0%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94(%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BA%BA%E8%AE%BE)%E5%92%8CPrompts%E6%A8%A1%E6%9D%BF%E8%AF%AD%E6%B3%95-%E5%9F%BA%E4%BA%8EDeepSeek.html)
 
-[07LangChain4j实战-Java AI应用开源框架之LangChain4j和Spring AI](https://itbeien.cn/AI/tech/07LangChain4j%E5%AE%9E%E6%88%98-JavaAI%E5%BA%94%E7%94%A8%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6%E4%B9%8BLangChain4j%E5%92%8CSpringAI.html)
+[07LangChain4j实战-Java AI应用开源框架之LangChain4j和Spring AI](https://itbeien.cn/AI/tech/llm/07LangChain4j%E5%AE%9E%E6%88%98-JavaAI%E5%BA%94%E7%94%A8%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6%E4%B9%8BLangChain4j%E5%92%8CSpringAI.html)
 
 ## 2 微服务专栏
 
