@@ -78,6 +78,8 @@
 
 [19SpringBoot3.4.3实现文件上传和全局异常处理](https://itbeien.cn/tech/SpringBoot3/19SpringBoot3.4.3%E5%AE%9E%E7%8E%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E5%92%8C%E5%85%A8%E5%B1%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.html)
 
+[20SpringBoot3.4.3集成Knife4j实现接口文档管理和调试](https://itbeien.cn/tech/SpringBoot3/20SpringBoot3.4.3%E9%9B%86%E6%88%90Knife4j%E5%AE%9E%E7%8E%B0%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E5%92%8C%E8%B0%83%E8%AF%95.html)
+
 ## 4 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
