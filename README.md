@@ -80,6 +80,8 @@
 
 [20SpringBoot3.4.3集成Knife4j实现接口文档管理和调试](https://itbeien.cn/tech/SpringBoot3/20SpringBoot3.4.3%E9%9B%86%E6%88%90Knife4j%E5%AE%9E%E7%8E%B0%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E5%92%8C%E8%B0%83%E8%AF%95.html)
 
+[21SpringBoot3.4.3基于Caffeine实现本地缓存](https://itbeien.cn/tech/SpringBoot3/21SpringBoot3.4.3%E5%9F%BA%E4%BA%8ECaffeine%E5%AE%9E%E7%8E%B0%E6%9C%AC%E5%9C%B0%E7%BC%93%E5%AD%98.html)
+
 ## 4 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
