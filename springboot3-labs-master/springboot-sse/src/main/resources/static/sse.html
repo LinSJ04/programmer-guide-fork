@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>itbeien SSE Example</title>
+</head>
+<body>
+<h1>itbeien Server-Sent Events Example</h1>
+<ul id="events"></ul>
+
+<script>
+    const eventSource = new EventSource('/sse');
+
+    eventSource.onmessage = function(event) {
+        const listItem = document.createElement('li');
+        listItem.textContent = `Received event: ${event.data}`;
+        document.getElementById('events').appendChild(listItem);
+    };
+
+    eventSource.onerror = function(error) {
+        console.error('EventSource failed:', error);
+        eventSource.close();
+    };
+</script>
+</body>
+</html>

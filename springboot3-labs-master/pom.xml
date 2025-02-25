@@ -39,6 +39,7 @@
         <module>springboot-fileupload</module>
         <module>springboot-knife4j</module>
         <module>springboot-caffeine</module>
+        <module>springboot-sse</module>
         <!--<module>springboot-webflux</module>-->
     </modules>
 
