@@ -82,6 +82,8 @@
 
 [21SpringBoot3.4.3基于Caffeine实现本地缓存](https://itbeien.cn/tech/SpringBoot3/21SpringBoot3.4.3%E5%9F%BA%E4%BA%8ECaffeine%E5%AE%9E%E7%8E%B0%E6%9C%AC%E5%9C%B0%E7%BC%93%E5%AD%98.html)
 
+[22SpringBoot3.4.3基于Spring WebFlux实现SSE功能](https://itbeien.cn/tech/SpringBoot3/22SpringBoot3.4.3%E5%9F%BA%E4%BA%8ESpringWebFlux%E5%AE%9E%E7%8E%B0SSE%E5%8A%9F%E8%83%BD.html)
+
 ## 4 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
