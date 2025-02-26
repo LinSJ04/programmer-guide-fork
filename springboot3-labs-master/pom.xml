@@ -40,6 +40,7 @@
         <module>springboot-knife4j</module>
         <module>springboot-caffeine</module>
         <module>springboot-sse</module>
+        <module>springboot-springdoc2</module>
         <!--<module>springboot-webflux</module>-->
     </modules>
 
