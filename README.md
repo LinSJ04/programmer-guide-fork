@@ -88,6 +88,8 @@
 
 [23SpringBoot3.4.3基于SpringDoc2和Swagger3实现项目接口文档管理](https://itbeien.cn/tech/SpringBoot3/23SpringBoot3.4.3%E5%9F%BA%E4%BA%8ESpringDoc2%E5%92%8CSwagger3%E5%AE%9E%E7%8E%B0%E9%A1%B9%E7%9B%AE%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86.html)
 
+[24SpringBoot3.4.3基于Openfeign实现声明式http接口调用](https://itbeien.cn/tech/SpringBoot3/24SpringBoot3.4.3%E5%9F%BA%E4%BA%8EOpenfeign%E5%AE%9E%E7%8E%B0%E5%A3%B0%E6%98%8E%E5%BC%8Fhttp%E6%8E%A5%E5%8F%A3%E8%B0%83%E7%94%A8.html)
+
 ## 4 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
