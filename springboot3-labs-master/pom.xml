@@ -41,6 +41,8 @@
         <module>springboot-caffeine</module>
         <module>springboot-sse</module>
         <module>springboot-springdoc2</module>
+        <!--<module>springboot-pgvector</module>-->
+        <module>springboot-openfeign</module>
         <!--<module>springboot-webflux</module>-->
     </modules>
 
