@@ -90,6 +90,8 @@
 
 [24SpringBoot3.4.3基于Openfeign实现声明式http接口调用](https://itbeien.cn/tech/SpringBoot3/24SpringBoot3.4.3%E5%9F%BA%E4%BA%8EOpenfeign%E5%AE%9E%E7%8E%B0%E5%A3%B0%E6%98%8E%E5%BC%8Fhttp%E6%8E%A5%E5%8F%A3%E8%B0%83%E7%94%A8.html)
 
+[25SpringBoot3.4.3基于Resilience4j实现服务容错构建高可用系统](https://itbeien.cn/tech/SpringBoot3/25SpringBoot3.4.3%E5%9F%BA%E4%BA%8EResilience4j%E5%AE%9E%E7%8E%B0%E6%9C%8D%E5%8A%A1%E5%AE%B9%E9%94%99%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E7%94%A8%E7%B3%BB%E7%BB%9F.html)
+
 ## 4 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
