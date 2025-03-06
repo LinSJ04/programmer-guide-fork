@@ -92,6 +92,8 @@
 
 [25SpringBoot3.4.3基于Resilience4j实现服务容错构建高可用系统](https://itbeien.cn/tech/SpringBoot3/25SpringBoot3.4.3%E5%9F%BA%E4%BA%8EResilience4j%E5%AE%9E%E7%8E%B0%E6%9C%8D%E5%8A%A1%E5%AE%B9%E9%94%99%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E7%94%A8%E7%B3%BB%E7%BB%9F.html)
 
+[26SpringBoot3.4.3基于JSqlParser和MyBatis实现自定义数据权限](https://itbeien.cn/tech/SpringBoot3/26SpringBoot3.4.3%E5%9F%BA%E4%BA%8EJSqlParser%E5%92%8CMyBatis%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90.html)
+
 ## 4 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
