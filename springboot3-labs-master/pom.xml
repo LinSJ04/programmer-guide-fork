@@ -44,6 +44,7 @@
         <module>springboot-resilience4j</module>
         <module>springboot-webflux</module>
         <module>springboot-openfeign</module>
+        <module>springboot-jsqlparser</module>
     </modules>
 
     <properties>
