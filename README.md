@@ -20,6 +20,8 @@
 
 [08SpringAI基于向量数据库PGVector和智谱大模型实现RAG](https://itbeien.cn/AI/tech/llm/08SpringAI%E5%9F%BA%E4%BA%8E%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93PGVector%E5%92%8C%E6%99%BA%E8%B0%B1%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%9E%E7%8E%B0RAG.html)
 
+[09大模型应用开发LangChain4j和SpringBoot3.4.3实战:构建智能问答系统](https://itbeien.cn/AI/tech/llm/09%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91LangChain4j%E5%92%8CSpringBoot3.4.3%E5%AE%9E%E6%88%98%E6%9E%84%E5%BB%BA%E6%99%BA%E8%83%BD%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F.html)
+
 ## 2 微服务专栏
 
 [01跟着我学微服务，什么是微服务？微服务有哪些主流解决方案？](https://www.itbeien.cn/tech/microservice/01%E8%B7%9F%E7%9D%80%E6%88%91%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%8C%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%9F%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%BB%E6%B5%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9F.html)
