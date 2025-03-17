@@ -12,6 +12,8 @@
         <module>lab01</module>
         <module>lab02</module>
         <module>lab03</module>
+        <module>lab04</module>
+        <module>lab05</module>
     </modules>
 
     <properties>
@@ -20,8 +22,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring-boot-dependencies-version>3.4.3</spring-boot-dependencies-version>
         <lombok.version>1.18.32</lombok.version>
-        <langchain4j-spring-boot-starter.version>0.36.2</langchain4j-spring-boot-starter.version>
-        <!--<langchain4j-spring-boot-starter.version>1.0.0-beta1</langchain4j-spring-boot-starter.version>-->
+        <!--<langchain4j-version>0.36.2</langchain4j-version>-->
+        <langchain4j-version>1.0.0-beta1</langchain4j-version>
     </properties>
 
 
@@ -35,6 +37,13 @@
                 <scope>import</scope>
             </dependency>
             <dependency>
+                <groupId>dev.langchain4j</groupId>
+                <artifactId>langchain4j-community-bom</artifactId>
+                <version>${langchain4j-version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
                 <version>${lombok.version}</version>
@@ -42,12 +51,12 @@
             <dependency>
                 <groupId>dev.langchain4j</groupId>
                 <artifactId>langchain4j-spring-boot-starter</artifactId>
-                <version>${langchain4j-spring-boot-starter.version}</version>
+                <version>${langchain4j-version}</version>
             </dependency>
             <dependency>
                 <groupId>dev.langchain4j</groupId>
                 <artifactId>langchain4j-open-ai-spring-boot-starter</artifactId>
-                <version>${langchain4j-spring-boot-starter.version}</version>
+                <version>${langchain4j-version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

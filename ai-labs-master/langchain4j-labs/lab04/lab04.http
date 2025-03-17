@@ -1,0 +1,15 @@
+### 低级别API实现AI助理
+GET http://localhost:8080/chat/chat
+    ?question=你是谁
+
+### AI助手
+GET http://localhost:8080/chat/systemMessage
+    ?question=我的第一个问题是？
+### 测试会话记忆
+GET http://localhost:8080/chat/assistant?
+    memoryId=1&question=我的第一个问题是什么
+
+### 测试会话隔离
+GET http://localhost:8080/chat/assistant?
+    memoryId=2&question=我的第一个问题是什么
+

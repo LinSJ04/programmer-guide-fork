@@ -1,0 +1,13 @@
+### 低级别API实现ai助手
+GET http://localhost:8080/chat/chat
+    ?question=你是谁
+
+### 高级别API基于本地知识库实现ai助手
+GET http://localhost:8080/chat/assistant
+    ?question=saas-db组件是什么
+
+### 加载本地知识库到内存
+GET http://localhost:8080/chat/load
+
+### 加载本地知识库到pgvector向量数据库
+GET http://localhost:8080/chat/load
