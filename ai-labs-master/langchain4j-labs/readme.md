@@ -1,4 +1,4 @@
-[langchain4j-lab0101LangChain4j实战-JavaAI应用开源框架之LangChain4j和SpringAI](https://www.yuque.com/u21261961/wufq8h/ss614nz29ug7lemz)
+[langchain4j-lab01LangChain4j实战-JavaAI应用开源框架之LangChain4j和SpringAI](https://www.yuque.com/u21261961/wufq8h/ss614nz29ug7lemz)
 
 [langchain4j-lab02**大模型应用开发LangChain4j和SpringBoot3.4.3实战构建智能问答系统**](https://www.yuque.com/u21261961/wufq8h/at8lzgx5tvydkvoc)
 
