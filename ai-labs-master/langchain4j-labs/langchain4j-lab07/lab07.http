@@ -4,11 +4,16 @@ GET http://localhost:8080/chat/chat
 
 ### function calling
 GET http://localhost:8080/chat/systemMessage
-    ?question=订单号:11111111111
+    ?question=退票
 
 
-### function calling
+### function calling 退票
 GET http://localhost:8080/chat/assistant
     ?memoryId=1&question=退票
+
+
+### function calling 退票并输入订单号
+GET http://localhost:8080/chat/assistant
+    ?memoryId=1&question=退票,订单号=112345578
 
 

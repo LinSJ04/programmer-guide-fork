@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * 公众号：贝恩聊架构
  * 全网同名，欢迎小伙伴们关注
  * Java/AI学习社群
+ * langchain4j-lab07大模型应用开发LangChain4j实战 function calling能力支持
  * Copyright© 2025 itbeien
  */
 @SpringBootApplication

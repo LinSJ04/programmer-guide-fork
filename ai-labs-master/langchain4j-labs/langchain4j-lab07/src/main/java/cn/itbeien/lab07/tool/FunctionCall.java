@@ -25,7 +25,6 @@ public class FunctionCall {
     @Tool("退票")
     public String call(@P("订单号")String orderId){
         log.info("收到退票请求，订单号：{}",orderId);
-        System.out.println("收到退票请求，订单号"+orderId);
         return "退票成功";
     }
 }

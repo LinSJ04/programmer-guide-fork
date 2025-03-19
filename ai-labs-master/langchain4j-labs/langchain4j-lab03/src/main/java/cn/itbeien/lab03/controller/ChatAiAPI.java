@@ -60,7 +60,7 @@ public class ChatAiAPI {
      */
     @RequestMapping("/load")
     public String load() {
-        List<Document> documents = FileSystemDocumentLoader.loadDocuments("E:\\gitee\\knowledge\\programmer-guide\\ai-labs-master\\langchain4j-labs\\lab03\\document");
+        List<Document> documents = FileSystemDocumentLoader.loadDocuments("E:\\gitee\\knowledge\\programmer-guide\\ai-labs-master\\langchain4j-labs\\langchain4j-lab03\\document");
         EmbeddingStoreIngestor.ingest(documents,embeddingStore);
         return "知识库加载到内存/pgvector成功";
     }
