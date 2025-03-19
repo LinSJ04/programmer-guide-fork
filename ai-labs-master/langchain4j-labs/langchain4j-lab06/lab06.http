@@ -1,0 +1,8 @@
+### low-level component 实现角色和场景设置对话
+GET http://localhost:8080/ai/chat
+    ?question=请你说说人工智能未来会替代哪些工作，我们可以围绕着哪些需求开发AI产品
+
+### high-level component 实现角色和场景设置对话
+GET http://localhost:8080/ai/highChat
+    ?question=请你说说人工智能未来会替代哪些工作，我们可以围绕着哪些需求开发AI产品
+

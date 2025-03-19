@@ -1,0 +1,14 @@
+### 持久化消息
+GET http://localhost:8080/chat/chat
+    ?question=你是谁
+
+### 持久化消息
+GET http://localhost:8080/chat/systemMessage
+    ?question=订单号:11111111111
+
+
+### 持久化消息
+GET http://localhost:8080/chat/assistant
+    ?memoryId=1&question=退票
+
+

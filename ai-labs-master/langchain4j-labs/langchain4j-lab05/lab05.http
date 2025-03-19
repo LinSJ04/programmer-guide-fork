@@ -1,0 +1,8 @@
+### low-level component 对话服务
+GET http://localhost:8080/ai/chat
+    ?question=你觉得你能替代程序员的哪些工作
+
+### high-level component 对话服务
+GET http://localhost:8080/ai/highChat
+    ?question=你觉得你能替代程序员的哪些工作
+
