@@ -12,9 +12,9 @@
 
 [langchain4j-lab06**大模型应用开发LangChain4j实战角色和场景设置**](https://www.yuque.com/u21261961/wufq8h/cugylpsu26xm9nes)
 
-[langchain4j-lab07大模型应用开发LangChain4j实战 function calling能力支持]()
+[langchain4j-lab07大模型应用开发LangChain4j实战 function calling能力支持](https://www.yuque.com/u21261961/wufq8h/hiklxp8msabqywgr)
 
 [langchain4j-lab08大模型应用开发LangChain4j实战基于MySQL8实现会话记忆持久化存储]()
 
-[langchain4j-lab09大模型应用开发LangChain4j实战流式输出]()
+[langchain4j-lab09大模型应用开发LangChain4j实战流式输出](https://www.yuque.com/u21261961/wufq8h/amkowf7w1aut39ut)
 
