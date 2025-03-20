@@ -1,3 +1,7 @@
+[**大模型环境基于DeepSeek和智谱**]()
+
+[DeepSeek](https://www.deepseek.com/)     [智谱](https://bigmodel.cn/)
+
 [spring-ai-lab01**Spring AI快速入门-基于DeepSeek&智谱实现聊天应用**](https://www.yuque.com/u21261961/wufq8h/wx486v657l0u2pdp)
 
 [spring-ai-lab02**Spring AI中流式对话API如何使用-基于DeepSeek**](https://www.yuque.com/u21261961/wufq8h/ow20glvxgls64ebl)

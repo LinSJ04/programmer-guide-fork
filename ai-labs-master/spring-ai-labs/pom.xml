@@ -14,6 +14,7 @@
         <module>spring-ai-lab03</module>
         <module>spring-ai-lab04</module>
         <module>spring-ai-lab05</module>
+        <module>spring-ai-lab06</module>
     </modules>
 
     <repositories>

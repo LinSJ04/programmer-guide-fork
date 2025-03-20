@@ -1,0 +1,4 @@
+### 测试简单对话
+GET http://localhost:8080/ai/chat?prompt=你支持文本转语音吗
+
+###
