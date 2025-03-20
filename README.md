@@ -28,6 +28,16 @@
 
 [12大模型应用开发LangChain4j实战实现会话记忆和会话隔离](https://itbeien.cn/AI/tech/llm/12%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91LangChain4j%E5%AE%9E%E6%88%98%E5%AE%9E%E7%8E%B0%E4%BC%9A%E8%AF%9D%E8%AE%B0%E5%BF%86%E5%92%8C%E4%BC%9A%E8%AF%9D%E9%9A%94%E7%A6%BB.html)
 
+[13大模型应用开发LangChain4j实战 function calling能力支持](https://itbeien.cn/AI/tech/llm/13%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91LangChain4j%E5%AE%9E%E6%88%98function-calling%E8%83%BD%E5%8A%9B%E6%94%AF%E6%8C%81.html)
+
+[14大模型应用开发LangChain4j实战流式输出](https://itbeien.cn/AI/tech/llm/14%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91LangChain4j%E5%AE%9E%E6%88%98%E6%B5%81%E5%BC%8F%E8%BE%93%E5%87%BA.html)
+
+[15大模型应用开发LangChain4j实战两种方式构建基础对话服务](https://itbeien.cn/AI/tech/llm/15%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91LangChain4j%E5%AE%9E%E6%88%98%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%9E%84%E5%BB%BA%E5%9F%BA%E7%A1%80%E5%AF%B9%E8%AF%9D%E6%9C%8D%E5%8A%A1.html)
+
+[16大模型应用开发LangChain4j实战角色和场景设置](https://itbeien.cn/AI/tech/llm/16%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91LangChain4j%E5%AE%9E%E6%88%98%E8%A7%92%E8%89%B2%E5%92%8C%E5%9C%BA%E6%99%AF%E8%AE%BE%E7%BD%AE.html)
+
+[🚀大模型应用开发(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h)
+
 ## 2 微服务专栏
 
 [01跟着我学微服务，什么是微服务？微服务有哪些主流解决方案？](https://www.itbeien.cn/tech/microservice/01%E8%B7%9F%E7%9D%80%E6%88%91%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%8C%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%9F%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%BB%E6%B5%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9F.html)
@@ -47,6 +57,8 @@
 [08JDK17+Dubbo3.3.2搭建企业级支付系统-预付卡支付交易微服务](https://www.itbeien.cn/tech/microservice/08JDK17_Dubbo3.3.2%E6%90%AD%E5%BB%BA%E4%BC%81%E4%B8%9A%E7%BA%A7%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F-%E9%A2%84%E4%BB%98%E5%8D%A1%E6%94%AF%E4%BB%98%E4%BA%A4%E6%98%93%E5%BE%AE%E6%9C%8D%E5%8A%A1.html)
 
 [09JDK17+SpringBoot3.3.6+Netty4.1.115实现企业级支付系统POS网关签到功能](https://www.itbeien.cn/tech/microservice/09JDK17_SpringBoot3.3.6_Netty4.1.115%E5%AE%9E%E7%8E%B0%E4%BC%81%E4%B8%9A%E7%BA%A7%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9FPOS%E7%BD%91%E5%85%B3%E7%AD%BE%E5%88%B0%E5%8A%9F%E8%83%BD.html)
+
+[🚀微服务(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt)
 
 ## 3 SpringBoot3专栏
 
@@ -101,6 +113,8 @@
 [25SpringBoot3.4.3基于Resilience4j实现服务容错构建高可用系统](https://itbeien.cn/tech/SpringBoot3/25SpringBoot3.4.3%E5%9F%BA%E4%BA%8EResilience4j%E5%AE%9E%E7%8E%B0%E6%9C%8D%E5%8A%A1%E5%AE%B9%E9%94%99%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E7%94%A8%E7%B3%BB%E7%BB%9F.html)
 
 [26SpringBoot3.4.3基于JSqlParser和MyBatis实现自定义数据权限](https://itbeien.cn/tech/SpringBoot3/26SpringBoot3.4.3%E5%9F%BA%E4%BA%8EJSqlParser%E5%92%8CMyBatis%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90.html)
+
+[🚀SpringBoot3(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt)
 
 ## 4 项目实战介绍
 
