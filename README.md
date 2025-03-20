@@ -58,7 +58,7 @@
 
 [09JDK17+SpringBoot3.3.6+Netty4.1.115实现企业级支付系统POS网关签到功能](https://www.itbeien.cn/tech/microservice/09JDK17_SpringBoot3.3.6_Netty4.1.115%E5%AE%9E%E7%8E%B0%E4%BC%81%E4%B8%9A%E7%BA%A7%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9FPOS%E7%BD%91%E5%85%B3%E7%AD%BE%E5%88%B0%E5%8A%9F%E8%83%BD.html)
 
-[🚀微服务(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt)
+[🚀微服务(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/dbixawf11ob7m298)
 
 ## 3 SpringBoot3专栏
 
@@ -114,7 +114,7 @@
 
 [26SpringBoot3.4.3基于JSqlParser和MyBatis实现自定义数据权限](https://itbeien.cn/tech/SpringBoot3/26SpringBoot3.4.3%E5%9F%BA%E4%BA%8EJSqlParser%E5%92%8CMyBatis%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E6%95%B0%E6%8D%AE%E6%9D%83%E9%99%90.html)
 
-[🚀SpringBoot3(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt)
+[🚀SpringBoot3(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/myzxdwq1o46deeh1)
 
 ## 4 系统架构和设计
 
@@ -132,7 +132,7 @@
 
 [在线体验地址](https://www.itbeien.cn/online/dtpay.html)
 
-[🚀聚合支付系统实战(实时更新-语雀)🚀](https://www.yuque.com/u21261961/la1ggt)
+[🚀聚合支付系统实战(实时更新-语雀)🚀](https://www.yuque.com/u21261961/la1ggt/ftobi43wplorsu2a)
 
 ### 5.2 预付卡系统
 
@@ -140,7 +140,7 @@
 
 [在线体验地址](https://www.itbeien.cn/online/ecard.html)
 
-[🚀预付卡系统实战(实时更新-语雀)🚀](https://www.yuque.com/u21261961/la1ggt)
+[🚀预付卡系统实战(实时更新-语雀)🚀](https://www.yuque.com/u21261961/la1ggt/uzmo7b5fy0b9bncy)
 
 ### 5.3 多租户技术平台
 
