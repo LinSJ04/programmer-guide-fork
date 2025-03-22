@@ -35,7 +35,7 @@ public class FunctionCallingService {
         /**
          * @author itbeien
          * 项目网站：https://www.itbeien.cn
-         * 比如实现智能天气助手就可以调佣查询天气的API接口进行天气查询,查询后返回结果
+         * 比如实现智能天气助手就可以调用查询天气的API接口进行天气查询,查询后返回结果
          * 或者在这里调用业务系统功能，然后返回信息让AI大模型给你重新组织语言给到终端用户
          */
         log.info("function calling:调用天气查询接口/你的业务系统功能{},{}",day,city);
