@@ -12,3 +12,5 @@
 
 [spring-ai-lab05**SpringAI实现角色扮演(自定义人设)和Prompts模板语法-基于DeepSeek**](https://www.yuque.com/u21261961/wufq8h/ds3s2ho5959zgvfn)
 
+[spring-ai-lab06**大模型应用开发SpringAI实战基于function calling让你的业务更智能**](https://www.yuque.com/u21261961/wufq8h/frcbu62ezmlwmeu3)
+

@@ -17,3 +17,47 @@
  [springboot-redisson](springboot-redisson) 
 
 [05SpringBoot3.4.0整合Redisson实现分布式锁](https://www.itbeien.cn/tech/SpringBoot3/05SpringBoot3.4.0%E6%95%B4%E5%90%88Redisson%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.html)
+
+[06MySQL增量数据同步利器Canal1.1.7环境搭建流程 ](https://www.yuque.com/u21261961/rwofrt/xlf2rizw895s686b)
+
+[07SpringBoot3.4.0集成Canal1.1.7实现MySQL实时同步数据到Redis ](https://www.yuque.com/u21261961/rwofrt/gkc8ltl1bb8tchtg)
+
+[08基于Docker-SpringBoot3.4.0集成Apache Pulsar4.0.1实现消息发布和订阅 ](https://www.yuque.com/u21261961/rwofrt/vb7fdibxe5psgn91)
+
+[09SpringBoot3.4.0整合消息中间件Kafka和RabbitMQ ](https://www.yuque.com/u21261961/rwofrt/ehv1xw1lw8eel3dg)
+
+[10SpringBoot3.4.0整合ActiveMQ ](https://www.yuque.com/u21261961/rwofrt/wco672krz9gu9gtm)
+
+[11SpringBoot3整合Spring Security6.4.2 安全认证框架实现简单身份认证 ](https://www.yuque.com/u21261961/rwofrt/zzvs3rz9m864g75a)
+
+[12SpringBoot3.4.1和Spring Security6.4.2实现基于内存和MySQL的用户认证 ](https://www.yuque.com/u21261961/rwofrt/xon75w03mlxmk8t9)
+
+[12SpringBoot3.4.1和Spring Security6.4.2实现基于内存和MySQL的用户认证 ](https://www.yuque.com/u21261961/rwofrt/xon75w03mlxmk8t9)
+
+[13SpringBoot3.4.1和Spring Security6.4.2结合OAuth2实现GitHub授权登录 ](https://www.yuque.com/u21261961/rwofrt/hkcpr9ytgqpvvgvy)
+
+[14SpringBoot3.4.1和Spring Security6.4.2结合JWT实现用户登录 ](https://www.yuque.com/u21261961/rwofrt/evd3h8v4tag0spi0)
+
+[15SpringBoot3.4.1整合Quartz定时任务 ](https://www.yuque.com/u21261961/rwofrt/gh6y35ky3u85gv9u)
+
+[16SpringBoot3.4.1基于MySQL8和Quartz实现定时任务管理 ](https://www.yuque.com/u21261961/rwofrt/ha6w8xfegggbtghp)
+
+[17SpringBoot3.4.2基于Mybatis和MySQL8多数据源使用示例](https://www.yuque.com/u21261961/rwofrt/det63ewa9yhb2r8k)
+
+[18SpringBoot3.4.3实现邮件发送 ](https://www.yuque.com/u21261961/rwofrt/zpttd3xtuf6a1l1e)
+
+[19SpringBoot3.4.3实现文件上传和全局异常处理](https://www.yuque.com/u21261961/rwofrt/rg2w8gga1fiwsqyi)
+
+[20SpringBoot3.4.3集成Knife4j实现接口文档管理和调试 ](https://www.yuque.com/u21261961/rwofrt/gqvqox3du16fl1pg)
+
+[21SpringBoot3.4.3基于Caffeine实现本地缓存 ](https://www.yuque.com/u21261961/rwofrt/ni72cg33ggddeeka)
+
+[22SpringBoot3.4.3基于SpringWebFlux实现SSE功能 ](https://www.yuque.com/u21261961/rwofrt/bc5y42ml5ogf0b9c)
+
+[23SpringBoot3.4.3基于SpringDoc2和Swagger3实现项目接口文档管理 ](https://www.yuque.com/u21261961/rwofrt/lazx4z27dkgn1oax)
+
+[24SpringBoot3.4.3基于Openfeign实现声明式http接口调用 ](https://www.yuque.com/u21261961/rwofrt/oohz7am2vlxrkg3c)
+
+[25SpringBoot3.4.3基于Resilience4j实现服务容错构建高可用系统 ](https://www.yuque.com/u21261961/rwofrt/tsu3r2shg8fgr006)
+
+[26SpringBoot3.4.3基于JSqlParser和MyBatis实现自定义数据权限 ](https://www.yuque.com/u21261961/rwofrt/dqgqdatqgdqei1xg)
