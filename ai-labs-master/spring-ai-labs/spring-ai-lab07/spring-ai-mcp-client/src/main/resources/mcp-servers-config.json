@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "stdio-mcp-server": {
+           "command": "java",
+           "args": [
+               "-Dspring.ai.mcp.server.stdio=true",
+               "-Dspring.main.web-application-type=none",
+               "-jar",
+               "E:\\gitee\\knowledge\\programmer-guide\\ai-labs-master\\spring-ai-labs\\spring-ai-lab07\\spring-ai-mcp-server\\target\\spring-ai-mcp-server-1.0-SNAPSHOT.jar"
+             ],
+           "env": {}
+         }
+     }
+}

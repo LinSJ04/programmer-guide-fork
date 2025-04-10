@@ -29,6 +29,7 @@
         <dependency>
             <groupId>org.springframework.ai</groupId>
             <artifactId>spring-ai-core</artifactId>
+            <version>${springai.version}</version>
         </dependency>
         <!--<dependency>
             <groupId>org.springframework.ai</groupId>
@@ -37,6 +38,7 @@
         <dependency>
             <groupId>org.springframework.ai</groupId>
             <artifactId>spring-ai-zhipuai-spring-boot-starter</artifactId>
+            <version>${springai.version}</version>
         </dependency>
     </dependencies>
 
