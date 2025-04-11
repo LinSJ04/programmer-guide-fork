@@ -16,6 +16,9 @@
         <module>spring-ai-lab05</module>
         <module>spring-ai-lab06</module>
         <module>spring-ai-lab07</module>
+        <module>spring-ai-lab08</module>
+        <module>spring-ai-lab08/spring-ai-mcp-client-stdio</module>
+        <module>spring-ai-lab08/spring-ai-mcp-server-stdio</module>
     </modules>
 
     <repositories>
