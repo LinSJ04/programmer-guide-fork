@@ -5,9 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>cn.itbeien.ai</groupId>
-        <artifactId>spring-ai-labs</artifactId>
+        <artifactId>spring-ai-lab08</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../../pom.xml</relativePath>
     </parent>
 
     <artifactId>spring-ai-mcp-server-stdio</artifactId>

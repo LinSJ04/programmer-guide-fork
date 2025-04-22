@@ -5,9 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>cn.itbeien.ai</groupId>
-        <artifactId>spring-ai-labs</artifactId>
+        <artifactId>spring-ai-lab08</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../../pom.xml</relativePath>
     </parent>
 
     <artifactId>spring-ai-mcp-client-stdio</artifactId>
@@ -25,19 +24,9 @@
             <groupId>org.springframework.ai</groupId>
             <artifactId>spring-ai-starter-mcp-client</artifactId>
         </dependency>
-      <!--  <dependency>
-            <groupId>org.springframework.ai</groupId>
-            <artifactId>spring-ai-zhipuai-spring-boot-starter</artifactId>
-            <version>${springai.version}</version>
-        </dependency>-->
         <dependency>
             <groupId>org.springframework.ai</groupId>
-            <artifactId>spring-ai-openai-spring-boot-starter</artifactId>
-            <version>${springai.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.ai</groupId>
-            <artifactId>spring-ai-mcp</artifactId>
+            <artifactId>spring-ai-starter-model-openai</artifactId>
         </dependency>
     </dependencies>
 

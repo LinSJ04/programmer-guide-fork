@@ -8,6 +8,7 @@ import org.springframework.ai.chat.messages.UserMessage;
 import org.springframework.ai.chat.model.ChatModel;
 import org.springframework.ai.chat.prompt.Prompt;
 import org.springframework.ai.tool.ToolCallbackProvider;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -37,7 +38,7 @@ public class AiController {
 
     private final ChatModel chatModel;
 
-    private final ToolCallbackProvider tools;
+    private final ToolCallbackProvider toolCallbackProvider;
 
     // 历史消息列表的最大长度
     static int maxLen = 1;
@@ -53,7 +54,7 @@ public class AiController {
         return ChatClient.create(chatModel)
                 .prompt(prompt)
                 .system(systemPrompt)
-                .tools(tools)
+                .tools(toolCallbackProvider)
                 .call()
                 .content();
     }
