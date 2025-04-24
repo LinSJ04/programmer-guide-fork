@@ -2,6 +2,10 @@
 
 **加我前请先关注和star，然后把截图发我，拉你进沟通群!**
 
+💬与我联系
+
+**[个人网站](https://itbeien.cn/)|[CSDN](https://blog.csdn.net/BenMicro)| [掘金](https://juejin.cn/user/3386151545086157)|[公众号](https://itbeien.cn/planet/星球介绍/project.html)|[语雀](https://www.yuque.com/u21261961)|[飞书](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)**|✉️ [Email](itbeien@163.com) |💬 [Issue](https://gitee.com/itbeien/programmer-guide/issues)
+
 ![](https://gitee.com/itbeien/base/raw/master/images/贝恩聊架构Java&AI技术群.png)
 
 ## **1 AI专栏**
