@@ -2,7 +2,7 @@
     <img alt="logo" src="https://gitee.com/itbeien/base/raw/master/images/探索编程-程序员导航.png" style="height: 80px">
 </div>
 <div align="center">
-    <h2>探索AI/编程，从程序员导航开始！</h2>
+    <h2>AI/编程，从程序员导航开始</h2>
     <h4>探索企业级AI应用框架，理解它的内部机制，带大家从入门到精通。</h4>
 </div>
 <p align="center">
@@ -33,6 +33,7 @@
     |
     💻 <a href="#我的-github-统计">统计</a>
 </p>
+
 
 ## **1 AI专栏**
 
