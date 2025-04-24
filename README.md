@@ -13,6 +13,8 @@
 " alt="掘金"/></a>
      <a href="https://www.yuque.com/u21261961" target="_blank"><img src="https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-green
 " alt="语雀"/></a>
+    <a href="https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2" target="_blank"><img src="https://img.shields.io/badge/%E9%A3%9E%E4%B9%A6-8A2BE2
+" alt="飞书"/></a>
 </p>
 <p align="center">
     ⚡ <a href="#技术">技术</a>
@@ -33,6 +35,7 @@
     |
     💻 <a href="#我的-github-统计">统计</a>
 </p>
+
 
 
 ## **1 AI专栏**
