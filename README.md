@@ -6,6 +6,10 @@
 
 ## **1 AI专栏**
 
+[🚀大模型应用开发(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h)
+
+[🚀大模型应用开发(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)
+
 [01IDEA&VsCode集成DeepSeek-V3 API提高编程效率](https://itbeien.cn/AI/tech/llm/01IDEA_VsCode%E9%9B%86%E6%88%90DeepSeek-V3API%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87.html)
 
 [02IntelliJ IDEA集成主流AI编程助手及特性介绍](https://itbeien.cn/AI/tech/llm/02IntelliJIDEA%E9%9B%86%E6%88%90%E4%B8%BB%E6%B5%81AI%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E5%8F%8A%E7%89%B9%E6%80%A7%E4%BB%8B%E7%BB%8D.html)
@@ -37,10 +41,6 @@
 [15大模型应用开发LangChain4j实战两种方式构建基础对话服务](https://itbeien.cn/AI/tech/llm/15%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91LangChain4j%E5%AE%9E%E6%88%98%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%9E%84%E5%BB%BA%E5%9F%BA%E7%A1%80%E5%AF%B9%E8%AF%9D%E6%9C%8D%E5%8A%A1.html)
 
 [16大模型应用开发LangChain4j实战角色和场景设置](https://itbeien.cn/AI/tech/llm/16%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91LangChain4j%E5%AE%9E%E6%88%98%E8%A7%92%E8%89%B2%E5%92%8C%E5%9C%BA%E6%99%AF%E8%AE%BE%E7%BD%AE.html)
-
-[🚀大模型应用开发(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h)
-
-[🚀大模型应用开发(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)
 
 ## 2 微服务专栏
 
