@@ -1,12 +1,38 @@
-**欢迎大家一起讨论学习，加我备注"Java/AI"拉你进入Java&AI技术讨论群，备注"聚合支付"拉你进入支付系统讨论群，在技术学习、成长、工作的路上不迷路！加我后不要急，每天下午6点左右通过！营销号免入**
-
-**加我前请先关注和star，然后把截图发我，拉你进沟通群!**
-
-💬与我联系
-
-**[个人网站](https://itbeien.cn/)|[CSDN](https://blog.csdn.net/BenMicro)| [掘金](https://juejin.cn/user/3386151545086157)|[公众号](https://itbeien.cn/planet/星球介绍/project.html)|[语雀](https://www.yuque.com/u21261961)|[飞书](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)**|✉️ [Email](itbeien@163.com) |💬 [Issue](https://gitee.com/itbeien/programmer-guide/issues)
-
-![](https://gitee.com/itbeien/base/raw/master/images/贝恩聊架构Java&AI技术群.png)
+<div align="center">
+    <img alt="logo" src="https://gitee.com/itbeien/base/raw/master/images/探索编程-程序员导航.png" style="height: 80px">
+</div>
+<div align="center">
+    <h2>探索AI/编程，从程序员导航开始！</h2>
+    <h4>探索企业级AI应用框架，理解它的内部机制，带大家从入门到精通。</h4>
+</div>
+<p align="center">
+    <a href="https://itbeien.cn/linkme/link-me.html"><img src="https://img.shields.io/badge/WeChat-itbeien-%2307C160?logo=wechat" alt="Wechat Badge"/></a>
+    <a href="https://blog.csdn.net/BenMicro"><img src="https://img.shields.io/badge/CSDN-red
+" alt="CSDN Badge"></a>
+        <a href="https://juejin.cn/user/3386151545086157" target="_blank"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-blue
+" alt="掘金"/></a>
+     <a href="https://www.yuque.com/u21261961" target="_blank"><img src="https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-green
+" alt="语雀"/></a>
+</p>
+<p align="center">
+    ⚡ <a href="#技术">技术</a>
+    |
+    👋 <a href="#简介">简介</a>
+    |
+    🍵 <a href="#为何做探索编程">Why</a>
+    |
+    🙏 <a href="#顺手点个星">点个星</a>
+    |
+    🌱 <a href="#企业级AI">企业级AI应用</a>
+    |
+    💬 <a href="#与我联系">联系我</a>
+    |
+    ⛵ <a href="#欢迎贡献">贡献</a>
+    |
+    🔄 <a href="#持续更新中">更新</a>
+    |
+    💻 <a href="#我的-github-统计">统计</a>
+</p>
 
 ## **1 AI专栏**
 
@@ -158,6 +184,8 @@
 
 [知识星球](https://www.itbeien.cn/planet/%E6%98%9F%E7%90%83%E4%BB%8B%E7%BB%8D/project.html)
 
-## 7 联系我
+## 7 💬与我联系
 
-[联系我](https://www.itbeien.cn/linkme/link-me.html)
+**加我前请先关注和star，然后把截图发我，拉你进沟通群!**
+
+**[个人网站](https://itbeien.cn/linkme/link-me.html)|[CSDN](https://blog.csdn.net/BenMicro)| [掘金](https://juejin.cn/user/3386151545086157)|[公众号](https://itbeien.cn/planet/星球介绍/project.html)|[语雀](https://www.yuque.com/u21261961)|[飞书](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)**|✉️ [Email](itbeien@163.com) |💬 [Issue](https://gitee.com/itbeien/programmer-guide/issues)
