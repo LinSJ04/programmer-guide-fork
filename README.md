@@ -21,15 +21,15 @@
 <p align="center">
     ⚡ <a href="#Java">Java</a>
     |
-    👋 <a href="#Go">Go</a>
+    👋 <a href="#Go">Go/Rust</a>
     |
     🍵 <a href="#Python">Python</a>
     |
+    🌱 <a href="#TypeScript">TypeScript</a>
+    |
     🙏 <a href="#顺手点个星">点个星</a>
     |
-    🌱 <a href="#企业级AI">企业级AI应用</a>
-    |
-    💬 <a href="#项目实战">项目实战</a>
+    💬 <a href="#项目实战">AI/项目实战</a>
     |
     ⛵ <a href="#欢迎贡献">贡献</a>
     |
@@ -37,6 +37,7 @@
     |
     💻 <a href="langchain4j-reading">源码分析</a>
 </p>
+
 
 
 
