@@ -11,9 +11,12 @@
         <img src="image/CSDN-red.svg" alt="CSDN"></a>
     <a href="https://juejin.cn/user/3386151545086157">
             <img src="image/掘金-blue.svg" alt="掘金"/></a>
-     <a href="https://www.yuque.com/u21261961" target="_blank">
+     <a href="https://www.yuque.com/u21261961">
          <img src="image/语雀-green.svg" alt="语雀"/></a>
-    <a href="https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2" target="_blank"><img src="image/飞书-8A2BE2.svg" alt="飞书"/></a>
+    <a href="https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2">
+        <img src="image/飞书-8A2BE2.svg" alt="飞书"/></a>
+    <a href="https://www.itbeien.cn">
+        <img src="image/博客-blue.svg" alt="博客"/></a>
 </p>
 <p align="center">
     ⚡ <a href="#技术">技术</a>
@@ -34,6 +37,7 @@
     |
     💻 <a href="#我的-github-统计">统计</a>
 </p>
+
 
 
 
