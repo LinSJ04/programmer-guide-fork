@@ -6,15 +6,13 @@
     <h4>探索企业级AI应用框架，理解它的内部机制，带大家从入门到精通。</h4>
 </div>
 <p align="center">
-    <a href="https://itbeien.cn/linkme/link-me.html"><img src="https://img.shields.io/badge/WeChat-itbeien-%2307C160?logo=wechat" alt="Wechat Badge"/></a>
-    <a href="https://blog.csdn.net/BenMicro"><img src="https://img.shields.io/badge/CSDN-red
-" alt="CSDN Badge"></a>
-        <a href="https://juejin.cn/user/3386151545086157" target="_blank"><img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-blue
+    <a href="https://itbeien.cn/linkme/link-me.html"><img src="https://img.shields.io/badge/WeChat-itbeien-%2307C160?logo=wechat" alt="Wechat"/></a>
+    <a href="https://blog.csdn.net/BenMicro"><img src="image/CSDN-red.svg" alt="CSDN"></a>
+        <a href="https://juejin.cn/user/3386151545086157" target="_blank"><img src="image/掘金-blue.svg
 " alt="掘金"/></a>
-     <a href="https://www.yuque.com/u21261961" target="_blank"><img src="https://img.shields.io/badge/%E8%AF%AD%E9%9B%80-green
+     <a href="https://www.yuque.com/u21261961" target="_blank"><img src="image/语雀-green.svg
 " alt="语雀"/></a>
-    <a href="https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2" target="_blank"><img src="https://img.shields.io/badge/%E9%A3%9E%E4%B9%A6-8A2BE2
-" alt="飞书"/></a>
+    <a href="https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2" target="_blank"><img src="image/飞书-8A2BE2.svg" alt="飞书"/></a>
 </p>
 <p align="center">
     ⚡ <a href="#技术">技术</a>
@@ -35,6 +33,9 @@
     |
     💻 <a href="#我的-github-统计">统计</a>
 </p>
+
+
+
 
 
 
