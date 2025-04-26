@@ -35,7 +35,7 @@
     |
     🔄 <a href="#持续更新中">持续更新</a>
     |
-    💻 <a href="/itbeien/programmer-guide/tree/master/langchain4j-reading">源码分析</a>
+    💻 <a href="langchain4j-reading">源码分析</a>
 </p>
 
 
