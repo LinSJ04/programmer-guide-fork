@@ -34,7 +34,7 @@
     |
     🙏 <a href="#顺手点个星">点个星</a>
     |
-    🌱 <a href="#LangChain4j -源码阅读系列">LangChain4j 源码</a>
+    🌱 <a href="#LangChain4j">LangChain4j</a>
     |
     💬 <a href="#与我联系">联系我</a>
     |
@@ -42,7 +42,7 @@
     |
     🔄 <a href="#持续更新中">更新</a>
     |
-    💻 <a href="#我的-github-统计">统计</a>
+    💻 <a href="#源码阅读系列">源码分析</a>
 </p>
 
 
