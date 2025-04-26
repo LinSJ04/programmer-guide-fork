@@ -11,7 +11,7 @@
         <img src="image/CSDN-red.svg" alt="CSDN"></a>
     <a href="https://juejin.cn/user/3386151545086157">
             <img src="image/掘金-blue.svg" alt="掘金"/></a>
-     <a href="https://www.yuque.com/u21261961">
+     <a href="https://www.yuque.com/u21261961/wufq8h">
          <img src="image/语雀-green.svg" alt="语雀"/></a>
     <a href="https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2">
         <img src="image/飞书-8A2BE2.svg" alt="飞书"/></a>
@@ -37,6 +37,7 @@
     |
     💻 <a href="langchain4j-reading">源码分析</a>
 </p>
+
 
 
 
