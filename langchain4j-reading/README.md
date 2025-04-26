@@ -26,7 +26,7 @@
         <img src="../image/博客-blue.svg" alt="博客"/></a>
 </p>
 <p align="center">
-    ⚡ <a href="#技术">技术</a>
+    ⚡ <a href="#Java">Java</a>
     |
     👋 <a href="#简介">简介</a>
     |
