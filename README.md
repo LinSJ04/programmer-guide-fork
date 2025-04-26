@@ -54,9 +54,9 @@
 
 [🚀大模型应用开发(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)
 
-[🚀langchain4j-reading(实时更新-语雀)🚀](https://vcnb783grhl8.feishu.cn/wiki/N3hPwH4RRiWl9fkp7W8cduXRnNc)
+[🚀langchain4j-reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h/kg0btocfhazkl19h)
 
-[🚀langchain4j-reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)
+[🚀langchain4j-reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/N3hPwH4RRiWl9fkp7W8cduXRnNc)
 
 [01IDEA&VsCode集成DeepSeek-V3 API提高编程效率](https://itbeien.cn/AI/tech/llm/01IDEA_VsCode%E9%9B%86%E6%88%90DeepSeek-V3API%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87.html)
 
