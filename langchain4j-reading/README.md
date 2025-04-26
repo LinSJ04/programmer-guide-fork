@@ -53,10 +53,11 @@
 <div align="left">
     <img src="https://img.shields.io/badge/Java-17%2B-%23437291?logo=openjdk&logoColor=%23437291"/>
     <img src="https://img.shields.io/badge/LangChain4j-1.0.0beta4.SNAPSHOT-%23437291?logo=langchain4j&logoColor=%236DB33F&color=%236DB33F"/>
-    <img src="https://img.shields.io/badge/SpringBoot-3.4.4-%23437291?logo=SpringBoot&logoColor=%236DB33F&color=%236DB33F"/>
+    <img src="https://img.shields.io/badge/SpringBoot-3.4.5-%23437291?logo=SpringBoot&logoColor=%236DB33F&color=%236DB33F"/>
     <img src="https://img.shields.io/badge/Maven-3.9.9-%23437291?logo=Apache%20Maven&logoColor=%23C71A36&color=%23C71A36"/>
     <img src="https://img.shields.io/badge/IDEA-2025.1-%23437291?logo=idea%20Maven&logoColor=%23C71A36&color=%23C71A36"/>
 </div>
+
 
 
 ## 👋简介
