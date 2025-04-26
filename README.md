@@ -19,24 +19,25 @@
         <img src="image/博客-blue.svg" alt="博客"/></a>
 </p>
 <p align="center">
-    ⚡ <a href="#技术">技术</a>
+    ⚡ <a href="#Java">Java</a>
     |
-    👋 <a href="#简介">简介</a>
+    👋 <a href="#Go">Go</a>
     |
-    🍵 <a href="#为何做探索编程">Why</a>
+    🍵 <a href="#Python">Python</a>
     |
     🙏 <a href="#顺手点个星">点个星</a>
     |
     🌱 <a href="#企业级AI">企业级AI应用</a>
     |
-    💬 <a href="#与我联系">联系我</a>
+    💬 <a href="#项目实战">项目实战</a>
     |
     ⛵ <a href="#欢迎贡献">贡献</a>
     |
-    🔄 <a href="#持续更新中">更新</a>
+    🔄 <a href="#持续更新中">持续更新</a>
     |
-    💻 <a href="#我的-github-统计">统计</a>
+    💻 <a href="#源码分析">源码分析</a>
 </p>
+
 
 
 
