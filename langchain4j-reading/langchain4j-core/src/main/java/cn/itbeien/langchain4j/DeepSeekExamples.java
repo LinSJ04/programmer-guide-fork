@@ -19,9 +19,9 @@ public class DeepSeekExamples {
                    .apiKey(ApiContants.DEEPSEEK_API_KEY)
                    .modelName(ApiContants.DEEPSEEK_API_MODEL)
                    .build();
-            String joke = chatModel.chat("你是谁");
+            //String joke = chatModel.chat("你是谁");
 
-            System.out.println(joke);
+            //System.out.println(joke);
         }
     }
 }
