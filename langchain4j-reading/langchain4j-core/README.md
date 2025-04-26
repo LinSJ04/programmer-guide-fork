@@ -1,12 +1,13 @@
 # LangChain4j核心模块之ChatModel接口源码分析
 
 <div align="center">
-    <img alt="logo" src="../image/langchain4j-reading.png" style="height: 80px">
+    <img alt="logo" src="https://gitee.com/itbeien/base/raw/master/images/langchain4j-reading.png" style="height: 80px">
 </div>
 <div align="center">
     <h2>深入LangChain4j，从源码开始</h2>
-    <h4>探索Java企业级AI应用框架，理解它的内部机制，带大家从入门到精通。</h4>
+    <h4>探索Java企业级AI应用框架，理解它的内部机制，带大家从入门到精通</h4>
 </div>
+
 
 <div align="left">
     <img src="https://img.shields.io/badge/Java-17%2B-%23437291?logo=openjdk&logoColor=%23437291"/>
@@ -238,7 +239,7 @@ public interface ChatModel {
 
 ### 4.1 创建OpenAiChatModel时序图
 
-![创建OpenAiChatModel时序图](C:\Users\Administrator\Downloads\创建OpenAiChatModel时序图.png)
+![](https://gitee.com/itbeien/base/raw/master/images/01创建OpenAiChatModel时序图.png)
 
 #### 4.1.1 时序图说明
 
