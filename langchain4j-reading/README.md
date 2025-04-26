@@ -88,3 +88,8 @@
 [🚀LangChain4j-Reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h)
 
 [🚀LangChain4j-Reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)
+
+## 1 langchain4j-core模块
+
+### 1.1 [LangChain4j核心模块之ChatModel接口源码分析](langchain4j-core/README.md)
+
