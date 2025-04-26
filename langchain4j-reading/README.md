@@ -86,9 +86,9 @@
 
 ## LangChain4j-Reading
 
-[🚀LangChain4j-Reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h)
+[🚀langchain4j-reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h/kg0btocfhazkl19h)
 
-[🚀LangChain4j-Reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)
+[🚀langchain4j-reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/N3hPwH4RRiWl9fkp7W8cduXRnNc)
 
 ## 1 langchain4j-core模块
 
