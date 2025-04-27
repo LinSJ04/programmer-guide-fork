@@ -603,6 +603,8 @@ public interface ChatClient {
 
 ### 3.6 如何创建ChatClient默认实现
 
+![](https://gitee.com/itbeien/base/raw/master/images/创建DefaultChatClient时序图.png)
+
 ## 4 最佳实践
 
 ```java
