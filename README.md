@@ -19,24 +19,25 @@
         <img src="image/博客-blue.svg" alt="博客"/></a>
 </p>
 <p align="center">
-    ⚡ <a href="#Java">Java</a>
+    <a href="#Java">Java</a>
     |
-    🍵 <a href="#Python">Python</a>
+    <a href="#Python">Python</a>
     |
-    👋 <a href="#Go">Go/Rust</a>
+    <a href="#Go">Go/Rust</a>
     |
-    🌱 <a href="#TypeScript">TypeScript</a>
+    <a href="#TypeScript">TypeScript</a>
     |
     🙏 <a href="#顺手点个星">Star</a>
     |
-    💬 <a href="#AI/项目实战">项目实战</a>
+    <a href="#AI/项目实战">项目实战</a>
     |
-    ⛵ <a href="#计算机基础">IT/AI基础</a>
+    <a href="#计算机基础">IT/AI基础</a>
     |
     🔄 <a href="#持续更新中">持续更新</a>
     |
     💻 <a href="langchain4j-reading">源码分析</a>
 </p>
+
 
 
 
