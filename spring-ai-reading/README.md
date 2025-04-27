@@ -90,6 +90,6 @@
 
 ## SpringAI-Reading
 
-[🚀SpringAI-Reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h)
+[🚀SpringAI-Reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h/nneitxzhl0cktzdb)
 
-[🚀SpringAI-Reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)
+[🚀SpringAI-Reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/T7UswZeKGiivX9kiK4LcYXdknSd)
