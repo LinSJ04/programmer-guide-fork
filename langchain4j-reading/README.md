@@ -32,13 +32,13 @@
     |
     <a href="#为何做Spring源码分析">Why</a>
     |
-    🙏 <a href="#顺手点个星">点个星</a>
+    🙏 <a href="#顺手点个Star">点个Star</a>
     |
     <a href="#LangChain4j">LangChain4j</a>
     |
     💬 <a href="#与我联系">联系我</a>
     |
-    ⛵ <a href="#欢迎贡献">贡献</a>
+    <a href="#欢迎贡献">贡献</a>
     |
     🔄 <a href="#持续更新中">更新</a>
     |
@@ -49,7 +49,8 @@
 
 
 
-## ⚡技术
+
+## ⚡开发环境
 
 <div align="left">
     <img src="https://img.shields.io/badge/Java-17%2B-%23437291?logo=openjdk&logoColor=%23437291"/>
@@ -77,7 +78,7 @@
 
 **[个人网站](https://itbeien.cn/)|[CSDN](https://blog.csdn.net/BenMicro)| [掘金](https://juejin.cn/user/3386151545086157)|[公众号](https://itbeien.cn/planet/星球介绍/project.html)|[语雀](https://www.yuque.com/u21261961)|[飞书](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)**|✉️ [Email](itbeien@163.com) |💬 [Issue](https://gitee.com/itbeien/programmer-guide/issues)
 
-## ⛵欢迎贡献！
+## 欢迎贡献！
 
 如果你发现任何错误或者有改进建议，欢迎提交 issue 或者 pull request。你的反馈对于我非常宝贵！
 
