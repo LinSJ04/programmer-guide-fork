@@ -39,20 +39,6 @@
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## **1 AI专栏**
 
 [🚀大模型应用开发(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h)
@@ -70,6 +56,16 @@
 [🚀SpringFramework-Reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/ro8kiu/uaccn80etsfphdpl)
 
 [🚀SpringFramework-Reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/NNvywIQHhiRvXMkIWxAcWJPyn4b)
+
+[🚀Python-编程语言(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/sz6vqg5tl6cqfxq1)
+
+[🚀Python-编程语言(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/FkFrwrYVPiEbA2kFpS4ci0b1nXd)
+
+[🚀Go-编程语言(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/qhuck22qvcpfypd7)
+
+[🚀Go-编程语言(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/Usv3wI5aEisAAjknUSpcwpl4nHb)
+
+[🚀Java-编程语言(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/rhtgmewsgbs2qg8m)
 
 [01IDEA&VsCode集成DeepSeek-V3 API提高编程效率](https://itbeien.cn/AI/tech/llm/01IDEA_VsCode%E9%9B%86%E6%88%90DeepSeek-V3API%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87.html)
 
