@@ -25,7 +25,7 @@
     |
     <a href="programming-language/go-code">Go</a>
     |
-    <a href="#TypeScript">TypeScript</a>
+    <a href="programming-language/typescript-code">TypeScript</a>
     |
     🤝 <a href="#顺手点个星">Star</a>
     |
@@ -37,6 +37,7 @@
     |
     <a href="#Rust">Rust</a>
 </p>
+
 
 
 
