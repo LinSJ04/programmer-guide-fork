@@ -64,6 +64,10 @@
 
 [🚀springai-reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/T7UswZeKGiivX9kiK4LcYXdknSd)
 
+[🚀SpringFramework-Reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/ro8kiu/uaccn80etsfphdpl)
+
+[🚀SpringFramework-Reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/NNvywIQHhiRvXMkIWxAcWJPyn4b)
+
 [01IDEA&VsCode集成DeepSeek-V3 API提高编程效率](https://itbeien.cn/AI/tech/llm/01IDEA_VsCode%E9%9B%86%E6%88%90DeepSeek-V3API%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87.html)
 
 [02IntelliJ IDEA集成主流AI编程助手及特性介绍](https://itbeien.cn/AI/tech/llm/02IntelliJIDEA%E9%9B%86%E6%88%90%E4%B8%BB%E6%B5%81AI%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E5%8F%8A%E7%89%B9%E6%80%A7%E4%BB%8B%E7%BB%8D.html)
@@ -103,6 +107,8 @@
 ### 1.2 [spring-ai-reading](spring-ai-reading/README.md)
 
 #### 1.2.1 [spring-ai-client-chat](spring-ai-reading/spring-ai-client-chat/README.md)
+
+### 1.3 [springframework-reading](springframework-reading/README.md)
 
 ## 2 微服务专栏
 
