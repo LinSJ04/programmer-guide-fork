@@ -45,28 +45,6 @@
 
 [🚀大模型应用开发(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/ZWYZw0z07i1KGakYYV2cjkUanG2)
 
-[🚀langchain4j-reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h/kg0btocfhazkl19h)
-
-[🚀langchain4j-reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/N3hPwH4RRiWl9fkp7W8cduXRnNc)
-
-[🚀springai-reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h/nneitxzhl0cktzdb)
-
-[🚀springai-reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/T7UswZeKGiivX9kiK4LcYXdknSd)
-
-[🚀SpringFramework-Reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/ro8kiu/uaccn80etsfphdpl)
-
-[🚀SpringFramework-Reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/NNvywIQHhiRvXMkIWxAcWJPyn4b)
-
-[🚀Python-编程语言(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/sz6vqg5tl6cqfxq1)
-
-[🚀Python-编程语言(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/FkFrwrYVPiEbA2kFpS4ci0b1nXd)
-
-[🚀Go-编程语言(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/qhuck22qvcpfypd7)
-
-[🚀Go-编程语言(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/Usv3wI5aEisAAjknUSpcwpl4nHb)
-
-[🚀Java-编程语言(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/rhtgmewsgbs2qg8m)
-
 [01IDEA&VsCode集成DeepSeek-V3 API提高编程效率](https://itbeien.cn/AI/tech/llm/01IDEA_VsCode%E9%9B%86%E6%88%90DeepSeek-V3API%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87.html)
 
 [02IntelliJ IDEA集成主流AI编程助手及特性介绍](https://itbeien.cn/AI/tech/llm/02IntelliJIDEA%E9%9B%86%E6%88%90%E4%B8%BB%E6%B5%81AI%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E5%8F%8A%E7%89%B9%E6%80%A7%E4%BB%8B%E7%BB%8D.html)
@@ -99,19 +77,45 @@
 
 [16大模型应用开发LangChain4j实战角色和场景设置](https://itbeien.cn/AI/tech/llm/16%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91LangChain4j%E5%AE%9E%E6%88%98%E8%A7%92%E8%89%B2%E5%92%8C%E5%9C%BA%E6%99%AF%E8%AE%BE%E7%BD%AE.html)
 
-### 1.1 [langchain4j-reading](langchain4j-reading/README.md)
+## 2 阅读源码
 
-#### 1.1.1 [langchain4j-core](langchain4j-reading/langchain4j-core/README.md)
+[🚀langchain4j-reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h/kg0btocfhazkl19h)
 
-### 1.2 [spring-ai-reading](spring-ai-reading/README.md)
+[🚀langchain4j-reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/N3hPwH4RRiWl9fkp7W8cduXRnNc)
 
-#### 1.2.1 [spring-ai-client-chat](spring-ai-reading/spring-ai-client-chat/README.md)
+[🚀springai-reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/wufq8h/nneitxzhl0cktzdb)
 
-### 1.3 [springframework-reading](springframework-reading/README.md)
+[🚀springai-reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/T7UswZeKGiivX9kiK4LcYXdknSd)
 
-#### 1.3.1 [ Spring核心模块(core)-Resource接口详解](springframework-reading/springframework-core/README.md)
+[🚀SpringFramework-Reading(实时更新-语雀)🚀](https://www.yuque.com/u21261961/ro8kiu/uaccn80etsfphdpl)
 
-## 2 微服务专栏
+[🚀SpringFramework-Reading(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/NNvywIQHhiRvXMkIWxAcWJPyn4b)
+
+### 2.1 [langchain4j-reading](langchain4j-reading/README.md)
+
+#### 2.1.1 [langchain4j-core](langchain4j-reading/langchain4j-core/README.md)
+
+### 2.2 [spring-ai-reading](spring-ai-reading/README.md)
+
+#### 2.2.1 [spring-ai-client-chat](spring-ai-reading/spring-ai-client-chat/README.md)
+
+### 2.3 [springframework-reading](springframework-reading/README.md)
+
+#### 2.3.1 [ Spring核心模块(core)-Resource接口详解](springframework-reading/springframework-core/README.md)
+
+## 3 深入编程语言
+
+[🚀Python-编程语言(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/sz6vqg5tl6cqfxq1)
+
+[🚀Python-编程语言(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/FkFrwrYVPiEbA2kFpS4ci0b1nXd)
+
+[🚀Go-编程语言(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/qhuck22qvcpfypd7)
+
+[🚀Go-编程语言(实时更新-飞书)🚀](https://vcnb783grhl8.feishu.cn/wiki/Usv3wI5aEisAAjknUSpcwpl4nHb)
+
+[🚀Java-编程语言(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/rhtgmewsgbs2qg8m)
+
+## 4 微服务专栏
 
 [01跟着我学微服务，什么是微服务？微服务有哪些主流解决方案？](https://www.itbeien.cn/tech/microservice/01%E8%B7%9F%E7%9D%80%E6%88%91%E5%AD%A6%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%8C%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E6%9C%8D%E5%8A%A1%EF%BC%9F%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%BB%E6%B5%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%9F.html)
 
@@ -133,7 +137,7 @@
 
 [🚀微服务(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/dbixawf11ob7m298)
 
-## 3 SpringBoot3专栏
+## 5 SpringBoot3专栏
 
 [01SpringBoot3专栏-SpringBoot3.4.0整合Mybatis-plus和Mybatis](https://www.itbeien.cn/tech/SpringBoot3/01SpringBoot3%E4%B8%93%E6%A0%8F-SpringBoot3.4.0%E6%95%B4%E5%90%88Mybatis-plus%E5%92%8CMybatis.html)
 
@@ -189,17 +193,17 @@
 
 [🚀SpringBoot3(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/myzxdwq1o46deeh1)
 
-## 4 系统架构和设计
+## 6 系统架构和设计
 
 [🚀系统架构和设计(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/pevs72go9uzwqi3t)
 
 [🚀Java编程知识都在这里-从小白到架构师成长之路(实时更新-语雀)🚀](https://www.yuque.com/u21261961/rwofrt/rhtgmewsgbs2qg8m)
 
-## 5 项目实战介绍
+## 7 项目实战介绍
 
 [贝恩聊架构-项目实战介绍](https://www.itbeien.cn/)
 
-### 5.1 聚合支付系统
+### 7.1 聚合支付系统
 
 [聚合支付系统技术&业务文档](https://www.itbeien.cn/dtpay/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D/%E8%81%9A%E5%90%88%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E4%B8%9A%E5%8A%A1%E5%92%8C%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%E4%BB%8B%E7%BB%8D.html)
 
@@ -207,7 +211,7 @@
 
 [🚀聚合支付系统实战(实时更新-语雀)🚀](https://www.yuque.com/u21261961/la1ggt/ftobi43wplorsu2a)
 
-### 5.2 预付卡系统
+### 7.2 预付卡系统
 
 [预付卡系统技术&业务文档](https://www.itbeien.cn/ecard/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D/01%E9%A2%84%E4%BB%98%E5%8D%A1%E5%B9%B3%E5%8F%B0%E4%BB%8B%E7%BB%8D.html)
 
@@ -215,15 +219,15 @@
 
 [🚀预付卡系统实战(实时更新-语雀)🚀](https://www.yuque.com/u21261961/la1ggt/uzmo7b5fy0b9bncy)
 
-### 5.3 多租户技术平台
+### 7.3 多租户技术平台
 
 [🚀SAAS多租户技术平台实战(实时更新-语雀)🚀](https://www.yuque.com/u21261961/la1ggt)
 
-## 6 知识星球
+## 8 知识星球
 
 [知识星球](https://www.itbeien.cn/planet/%E6%98%9F%E7%90%83%E4%BB%8B%E7%BB%8D/project.html)
 
-## 7 💬与我联系
+## 9 💬与我联系
 
 **加我前请先关注和star，然后把截图发我，拉你进沟通群**
 
