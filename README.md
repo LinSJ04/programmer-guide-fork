@@ -19,7 +19,7 @@
         <img src="image/博客-blue.svg" alt="博客"/></a>
 </p>
 <p align="center">
-    <a href="#Java">Java</a>
+    <a href="programming-language/java-code">Java</a>
     |
     <a href="programming-language/python-code">Python</a>
     |
@@ -37,6 +37,7 @@
     |
     <a href="#Rust">Rust</a>
 </p>
+
 
 
 ## **1 AI专栏**
