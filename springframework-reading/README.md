@@ -9,8 +9,8 @@
     </a>
    <a href='https://gitee.com/itbeien/programmer-guide/stargazers'><img src='https://gitee.com/itbeien/programmer-guide/badge/star.svg?theme=dark' alt='star'></img></a>
     <a href='https://gitee.com/itbeien/programmer-guide/members'><img src='https://gitee.com/itbeien/programmer-guide/badge/fork.svg?theme=dark' alt='fork'></img></a>
-    <a href="https://github.com/itbeien/programmer-guide"><img src="https://img.shields.io/github/stars/itbeien/programmer-guide?logo=github&logoColor=%23EF2D5E&label=Stars&labelColor=%23000000&color=%23EF2D5E&cacheSeconds=3600" alt="Stars Badge"/>
-    <a href="https://github.com/itbeien/programmer-guide/fork"><img src="https://img.shields.io/github/forks/itbeien/programmer-guide?label=Forks&logo=github&logoColor=%23F2BB13&labelColor=%23BE2323&color=%23F2BB13" alt="Fork Badge">
+    <a href="https://github.com/itbeien/programmer-guide"><img src="https://img.shields.io/github/stars/itbeien/programmer-guide?logo=github&logoColor=%23EF2D5E&label=Stars&labelColor=%23000000&color=%23EF2D5E&cacheSeconds=3600" alt="Stars"/>
+    <a href="https://github.com/itbeien/programmer-guide/fork"><img src="https://img.shields.io/github/forks/itbeien/programmer-guide?label=Forks&logo=github&logoColor=%23F2BB13&labelColor=%23BE2323&color=%23F2BB13" alt="Fork">
 </p>
 <p align="center">
     <a href="https://itbeien.cn/linkme/link-me.html"><img src="https://img.shields.io/badge/WeChat-itbeien-%2307C160?logo=wechat" alt="Wechat"/></a>
@@ -44,6 +44,7 @@
     |
     💻 <a href="https://www.yuque.com/u21261961/wufq8h/nneitxzhl0cktzdb">源码阅读</a>
 </p>
+
 
 
 
