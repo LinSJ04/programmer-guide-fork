@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     <h2>深入Spring AI，从源码开始</h2>
-    <h4>探索Java企业级AI应用框架，理解它的内部机制，带大家从入门到精通。</h4>
+    <h4>探索Java企业级AI应用框架，理解它的内部机制，带大家从入门到精通</h4>
 </div>
 <p align="center">
     </a>
@@ -44,6 +44,7 @@
     |
     💻 <a href="https://www.yuque.com/u21261961/wufq8h/nneitxzhl0cktzdb">源码阅读</a>
 </p>
+
 
 
 
