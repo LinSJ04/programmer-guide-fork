@@ -27,7 +27,7 @@
     |
     <a href="#TypeScript">TypeScript</a>
     |
-    🙏 <a href="#顺手点个星">Star</a>
+    🤝 <a href="#顺手点个星">Star</a>
     |
     <a href="#AI/项目实战">项目实战</a>
     |
@@ -37,6 +37,7 @@
     |
     💻 <a href="langchain4j-reading">源码分析</a>
 </p>
+
 
 
 
