@@ -67,7 +67,7 @@ for kw in all_keywords:
 
 在Pycharm IDE中运行该代码
 
-![run-code-python](C:\Users\Administrator\Downloads\run-code-python.png)
+![](https://gitee.com/itbeien/base/raw/master/images/run-code-python.png)
 
 ## 2 变量
 
