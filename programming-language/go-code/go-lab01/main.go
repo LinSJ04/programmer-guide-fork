@@ -4,12 +4,13 @@ import (
 	"fmt"
 )
 
-//我是单行注释，注释是给人看的，计算机不会执行
-
+/*
+我是多注释，注释是给人看的，计算机不会执行
+*/
 func main() {
-	/**
-	  我是多行注释
-	*/
+	var name string
+
 	fmt.Printf("Hello and welcome！")
+	fmt.Printf(name)
 
 }
