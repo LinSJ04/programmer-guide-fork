@@ -9,7 +9,7 @@
         <version>${revision}</version>
     </parent>
 
-    <artifactId>spring-ai-client-chat</artifactId>
+    <artifactId>spring-ai-client-chat-lab01</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
