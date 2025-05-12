@@ -36,3 +36,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/spring-ai-client-chat-lab01/.flattened-pom.xml
+/.flattened-pom.xml
