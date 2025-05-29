@@ -1,6 +1,6 @@
 package cn.itbeien.langchain4j.ai.test;
 
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import jakarta.annotation.Resource;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
@@ -18,10 +18,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 @Slf4j
 public class LangChain4jLab01Test {
     @Resource
-    private ChatLanguageModel chatLanguageModel;
+    private ChatModel chatModel;
     @Test
     public void test() {
-        String answer = chatLanguageModel.generate("你好,你是哪家公司开发的");
+        String answer = chatModel.chat("你好,你是哪家公司开发的");
         log.info("answer: {}", answer);
     }
 }

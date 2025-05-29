@@ -4,7 +4,7 @@ import cn.itbeien.cn.service.AIAssistant;
 import cn.itbeien.cn.service.PersistenceChatMemoryStore;
 import dev.langchain4j.memory.chat.ChatMemoryProvider;
 import dev.langchain4j.memory.chat.MessageWindowChatMemory;
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import dev.langchain4j.service.AiServices;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
@@ -22,7 +22,7 @@ import org.springframework.context.annotation.Configuration;
 @RequiredArgsConstructor
 public class AppConfig {
 
-    final ChatLanguageModel chatLanguageModel;
+    final ChatModel chatModel;
     final PersistenceChatMemoryStore persistenceChatMemoryStore;
 
     /**
@@ -37,7 +37,7 @@ public class AppConfig {
                 .build();
         return AiServices.builder(AIAssistant.class)
                 .chatMemoryProvider(chatMemoryProvider)
-                .chatLanguageModel(chatLanguageModel).build();
+                .chatModel(chatModel).build();
     }
 
 }

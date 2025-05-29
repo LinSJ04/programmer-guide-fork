@@ -1,6 +1,6 @@
 package cn.itbeien.lab02.service;
 
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import org.springframework.stereotype.Service;
 
 /**
@@ -14,13 +14,13 @@ import org.springframework.stereotype.Service;
 @Service
 public class QAService {
 
-    ChatLanguageModel chatLanguageModel;
+    ChatModel chatModel;
 
-    public QAService(ChatLanguageModel chatLanguageModel) {
-        this.chatLanguageModel = chatLanguageModel;
+    public QAService(ChatModel chatModel) {
+        this.chatModel = chatModel;
     }
 
     public String askQuestion(String userMessage) {
-        return chatLanguageModel.generate(userMessage);
+        return chatModel.chat(userMessage);
     }
 }

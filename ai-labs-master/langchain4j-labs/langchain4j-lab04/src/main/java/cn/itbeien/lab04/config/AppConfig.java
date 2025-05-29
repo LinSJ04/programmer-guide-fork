@@ -2,7 +2,7 @@ package cn.itbeien.lab04.config;
 
 import cn.itbeien.lab04.service.AIAssistant;
 import dev.langchain4j.memory.chat.MessageWindowChatMemory;
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import dev.langchain4j.service.AiServices;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
@@ -19,7 +19,7 @@ import org.springframework.context.annotation.Configuration;
 @RequiredArgsConstructor
 public class AppConfig {
 
-    final ChatLanguageModel chatLanguageModel;
+    final ChatModel chatModel;
 
     /**
      * 根据不同的会话id 创建不同的会话对象
@@ -29,7 +29,7 @@ public class AppConfig {
     public AIAssistant createAiAssistant() {
         return AiServices.builder(AIAssistant.class)
                 .chatMemoryProvider(memoryId-> MessageWindowChatMemory.withMaxMessages(10))
-                .chatLanguageModel(chatLanguageModel).build();
+                .chatModel(chatModel).build();
     }
 
 }

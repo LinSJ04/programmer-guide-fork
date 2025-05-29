@@ -3,7 +3,7 @@ package cn.itbeien.lab03.config;
 import cn.itbeien.lab03.service.Assistant;
 import dev.langchain4j.data.segment.TextSegment;
 import dev.langchain4j.memory.chat.MessageWindowChatMemory;
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import dev.langchain4j.rag.content.retriever.EmbeddingStoreContentRetriever;
 import dev.langchain4j.service.AiServices;
 import dev.langchain4j.store.embedding.EmbeddingStore;
@@ -26,7 +26,7 @@ import java.time.Duration;
 @RequiredArgsConstructor
 public class InMemoryEmbeddingConfig {
 
-    final ChatLanguageModel chatLanguageModel;
+    final ChatModel chatModel;
 
 
     //@Bean
@@ -39,6 +39,6 @@ public class InMemoryEmbeddingConfig {
         return AiServices.builder(Assistant.class)
                 .chatMemoryProvider(memoryId-> MessageWindowChatMemory.withMaxMessages(10))
                 .contentRetriever(EmbeddingStoreContentRetriever.from(embeddingStore))
-                .chatLanguageModel(chatLanguageModel).build();
+                .chatModel(chatModel).build();
     }
 }

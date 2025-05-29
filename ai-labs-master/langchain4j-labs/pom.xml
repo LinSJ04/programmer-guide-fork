@@ -27,7 +27,9 @@
         <spring-boot-dependencies-version>3.5.0</spring-boot-dependencies-version>
         <lombok.version>1.18.32</lombok.version>
         <!--<langchain4j-version>0.36.2</langchain4j-version>-->
-        <langchain4j-version>1.0.0-beta1</langchain4j-version>
+        <!--<langchain4j-version>1.0.0-beta1</langchain4j-version>-->
+        <langchain4j-version>1.0.1</langchain4j-version>
+        <langchain4j-springboot-version>1.0.1-beta6</langchain4j-springboot-version>
     </properties>
 
 
@@ -42,8 +44,15 @@
             </dependency>
             <dependency>
                 <groupId>dev.langchain4j</groupId>
-                <artifactId>langchain4j-community-bom</artifactId>
+                <artifactId>langchain4j-bom</artifactId>
                 <version>${langchain4j-version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>dev.langchain4j</groupId>
+                <artifactId>langchain4j-community-bom</artifactId>
+                <version>${langchain4j-springboot-version}</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
@@ -55,12 +64,12 @@
             <dependency>
                 <groupId>dev.langchain4j</groupId>
                 <artifactId>langchain4j-spring-boot-starter</artifactId>
-                <version>${langchain4j-version}</version>
+                <version>${langchain4j-springboot-version}</version>
             </dependency>
             <dependency>
                 <groupId>dev.langchain4j</groupId>
                 <artifactId>langchain4j-open-ai-spring-boot-starter</artifactId>
-                <version>${langchain4j-version}</version>
+                <version>${langchain4j-springboot-version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

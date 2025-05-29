@@ -1,6 +1,6 @@
 package cn.itbeien.langchain4j.ai.controller;
 
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import jakarta.annotation.Resource;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/openai")
 public class OpenAIController {
     @Resource
-    private ChatLanguageModel chatLanguageModel;
+    private ChatModel chatModel;
 
     /*@Value("${langchain4j.open-ai.chat-model.api-key}")
     private String apiKey;
@@ -36,6 +36,6 @@ public class OpenAIController {
 
     @GetMapping("/hello")
     public String helloAI() {
-        return chatLanguageModel.generate("你是哪家公司开发的");
+        return chatModel.chat("你是哪家公司开发的");
     }
 }

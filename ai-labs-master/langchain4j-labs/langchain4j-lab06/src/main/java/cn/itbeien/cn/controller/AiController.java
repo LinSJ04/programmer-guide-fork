@@ -3,7 +3,7 @@ package cn.itbeien.cn.controller;
 import cn.itbeien.cn.service.AiAssistant;
 import dev.langchain4j.data.message.SystemMessage;
 import dev.langchain4j.data.message.UserMessage;
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -27,7 +27,7 @@ public class AiController {
      * 注入ChatLanguageModel
      * low-level component
      */
-    final ChatLanguageModel chatLanguageModel;
+    final ChatModel chatModel;
     final AiAssistant aiAssistant;
 
     /**
@@ -40,7 +40,7 @@ public class AiController {
      */
     @RequestMapping("/chat")
     public String aiChat(@RequestParam("question") String question) {
-        return chatLanguageModel.chat(List.of(SystemMessage.from("假如你是埃隆·里夫·马斯克，请用他的思维方式和用户对话"), UserMessage.from(question)))
+        return chatModel.chat(List.of(SystemMessage.from("假如你是埃隆·里夫·马斯克，请用他的思维方式和用户对话"), UserMessage.from(question)))
                 .aiMessage().text();
     }
 

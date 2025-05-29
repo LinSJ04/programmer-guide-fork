@@ -11,7 +11,8 @@
 
     <artifactId>langchain4j-lab04</artifactId>
     <properties>
-        <langchain4j.version>1.0.0-beta1</langchain4j.version>
+        <!--<langchain4j.version>1.0.0-beta1</langchain4j.version>-->
+        <langchain4j.version>1.0.1</langchain4j.version>
     </properties>
     <dependencies>
         <dependency>
@@ -29,7 +30,7 @@
         <dependency>
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j</artifactId>
-            <version>${langchain4j.version}</version>
+            <!--<version>${langchain4j.version}</version>-->
         </dependency>
     </dependencies>
 

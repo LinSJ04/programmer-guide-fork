@@ -5,7 +5,7 @@ import dev.langchain4j.data.document.Document;
 import dev.langchain4j.data.document.loader.FileSystemDocumentLoader;
 import dev.langchain4j.data.message.UserMessage;
 import dev.langchain4j.data.segment.TextSegment;
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import dev.langchain4j.store.embedding.EmbeddingStore;
 import dev.langchain4j.store.embedding.EmbeddingStoreIngestor;
 import lombok.RequiredArgsConstructor;
@@ -28,7 +28,7 @@ import java.util.List;
 @RequiredArgsConstructor
 public class ChatAiAPI {
 
-    final ChatLanguageModel chatLanguageModel;
+    final ChatModel chatModel;
 
     final Assistant assistant;
 
@@ -39,7 +39,7 @@ public class ChatAiAPI {
      */
     @RequestMapping("/chat")
     public String chat(@RequestParam("question") String question) {
-        return chatLanguageModel.chat(UserMessage.from(question)).aiMessage().text();
+        return chatModel.chat(UserMessage.from(question)).aiMessage().text();
     }
 
     /**

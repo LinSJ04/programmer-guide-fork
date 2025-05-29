@@ -4,7 +4,7 @@ import cn.itbeien.lab04.service.AIAssistant;
 import dev.langchain4j.data.message.UserMessage;
 import dev.langchain4j.memory.ChatMemory;
 import dev.langchain4j.memory.chat.MessageWindowChatMemory;
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import dev.langchain4j.model.chat.response.ChatResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequiredArgsConstructor
 public class AssistantAPI {
 
-    final ChatLanguageModel chatLanguageModel;
+    final ChatModel chatModel;
 
     final AIAssistant assistant;
 
@@ -38,7 +38,7 @@ public class AssistantAPI {
     @RequestMapping("/chat")
     public String lowChat(@RequestParam("question") String question) {
         chatMemory.add(UserMessage.userMessage(question));
-        ChatResponse chatResponse = chatLanguageModel.chat(chatMemory.messages());
+        ChatResponse chatResponse = chatModel.chat(chatMemory.messages());
         chatMemory.add(chatResponse.aiMessage());
         return chatResponse.aiMessage().text();
     }

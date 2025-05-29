@@ -2,7 +2,7 @@ package cn.itbeien.lab05.controller;
 
 import cn.itbeien.lab05.service.AiAssistant;
 import dev.langchain4j.data.message.UserMessage;
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -24,7 +24,7 @@ public class AiController {
      * 注入ChatLanguageModel
      * low-level component
      */
-    final ChatLanguageModel chatLanguageModel;
+    final ChatModel chatModel;
     final AiAssistant aiAssistant;
 
     /**
@@ -37,7 +37,7 @@ public class AiController {
      */
     @RequestMapping("/chat")
     public String aiChat(@RequestParam("question") String question) {
-        return chatLanguageModel.chat(UserMessage.from(question)).aiMessage().text();
+        return chatModel.chat(UserMessage.from(question)).aiMessage().text();
     }
 
     /**

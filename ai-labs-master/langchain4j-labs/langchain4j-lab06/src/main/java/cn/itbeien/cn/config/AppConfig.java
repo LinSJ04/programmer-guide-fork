@@ -2,7 +2,7 @@ package cn.itbeien.cn.config;
 
 
 import cn.itbeien.cn.service.AiAssistant;
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import dev.langchain4j.service.AiServices;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
@@ -21,12 +21,12 @@ import org.springframework.context.annotation.Configuration;
 @RequiredArgsConstructor
 public class AppConfig {
 
-    private final ChatLanguageModel chatLanguageModel;
+    private final ChatModel chatModel;
 
     @Bean
     public AiAssistant aiAssistant() {
         return AiServices.builder(AiAssistant.class)
-                .chatLanguageModel(chatLanguageModel)
+                .chatModel(chatModel)
                 .build();
     }
 }
