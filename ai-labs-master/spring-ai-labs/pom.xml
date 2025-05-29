@@ -45,8 +45,9 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!--<springai.version>1.0.0-SNAPSHOT</springai.version>-->
         <springai.version>1.0.0-SNAPSHOT</springai.version>
-        <spring-boot-dependencies-version>3.4.4</spring-boot-dependencies-version>
+        <spring-boot-dependencies-version>3.5.0</spring-boot-dependencies-version>
         <lombok.version>1.18.32</lombok.version>
     </properties>
 
