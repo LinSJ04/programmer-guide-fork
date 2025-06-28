@@ -19,14 +19,15 @@ public class IPUtil {
                 //根据网卡取本机配置的IP
                 InetAddress inet=null;
                 try {
-                    inet = InetAddress.getLocalHost();
+                    inet = InetAddress.getLocalHost(); // zero/192.168.5.2
                 } catch (UnknownHostException e) {
                     e.printStackTrace();
                 }
-                ipAddress= inet.getHostAddress();
+                ipAddress= inet.getHostAddress(); // 192.168.5.2
             }
         }
-        //对于通过多个代理的情况，第一个IP为客户端真实IP,多个IP按照','分割
+        // 对于通过多个代理的情况，第一个IP为客户端真实IP,多个IP按照','分割
+        // 第一个IP为客户端真实IP
         if(ipAddress!=null && ipAddress.length()>15){ //"***.***.***.***".length() = 15
             if(ipAddress.indexOf(",")>0){
                 ipAddress = ipAddress.substring(0,ipAddress.indexOf(","));

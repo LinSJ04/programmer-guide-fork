@@ -33,7 +33,7 @@ public class ApiLimitApplication {
     }
 
     // 用了@Limit注解，就会进行限流处理，10s，只能访问2次
-    @Limit(type = LimitType.DEFAULT, time = 10, count = 2)
+    @Limit(type = LimitType.IP, time = 10, count = 2)
     @GetMapping("api")
     public String test() {
         return "请求成功：" + System.currentTimeMillis();
