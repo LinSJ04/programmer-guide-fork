@@ -7,7 +7,7 @@ package com.beien.enums;
  */
 public enum LimitType {
     /**
-     * 默认策略全局限流
+     * 默认策略全局限流，没有限定具体某个IP
      */
     DEFAULT,
     /**

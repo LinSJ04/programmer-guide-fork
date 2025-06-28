@@ -14,6 +14,9 @@ import org.springframework.stereotype.Component;
 import javax.annotation.Resource;
 import java.lang.reflect.Method;
 
+/**
+ * 限流切面
+ */
 @Slf4j
 @Aspect
 @Component
