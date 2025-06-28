@@ -30,6 +30,7 @@ public class RedisLimitUtil {
     public boolean limit(String key, int count, int times) {
         try {
             // 限流lua脚本的编写
+            // Lua 脚本保证了 Redis 操作的原子性，避免并发问题。
             String script = "local lockKey = KEYS[1]\n" +
                     "local lockCount = KEYS[2]\n" +
                     "local lockExpire = KEYS[3]\n" +
@@ -42,7 +43,12 @@ public class RedisLimitUtil {
                     "else\n" +
                     "return false\n" +
                     "end";
+            // 创建 RedisScript 对象
             RedisScript<Boolean> redisScript = new DefaultRedisScript<>(script, Boolean.class);
+            // lockKey：redis中的key
+            // lockCount：限流次数
+            // lockExpire：限流时间
+            // 构建参数列表（key, count, times）
             List<String> keys = Arrays.asList(key, String.valueOf(count), String.valueOf(times));
             log.info("key:{}",key);
             // 将lua脚本和key写入redis中

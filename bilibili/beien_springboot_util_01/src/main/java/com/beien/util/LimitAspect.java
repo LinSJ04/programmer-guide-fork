@@ -32,6 +32,7 @@ public class LimitAspect {
     public void doBefore(JoinPoint point, Limit limit) {
         try {
             // 拼接key
+            // 全局限流: limit:com.beien.ApiLimitApplication-test
             String key = getCombineKey(limit, point);
             // 判断是否超出限流次数
             if (!redisLimitUtil.limit(key, limit.count(), limit.time())) {
@@ -53,6 +54,7 @@ public class LimitAspect {
             sb.append(IPUtil.getIpAddr(HttpRequestUtil.getRequest())).append("-");
         }
         // 拼接类名和方法名
+        // 从切面（AOP）的连接点中获取当前执行的方法签名信息
         MethodSignature signature = (MethodSignature) point.getSignature();
         Method method = signature.getMethod();
         Class<?> targetClass = method.getDeclaringClass();
